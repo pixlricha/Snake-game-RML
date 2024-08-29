@@ -1,1 +1,1 @@
-# Snake-game-RML
+# Reinforcement machine learning snake game
